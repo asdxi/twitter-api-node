@@ -1,0 +1,8 @@
+#Ignore Node Modules
+node_modules
+
+#Ignore Environment variables
+.env
+
+#Ignore Mac system files
+.DS_Store
